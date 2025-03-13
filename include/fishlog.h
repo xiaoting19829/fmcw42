@@ -1,7 +1,7 @@
 /**
  * @file fishlog.h
  * @author fishros (fishros@foxmail.com)
- * @brief 日志管理类
+ * @brief 日志管理类1
  * @version V1.0.0
  * @date 2023-01-04
  * 
