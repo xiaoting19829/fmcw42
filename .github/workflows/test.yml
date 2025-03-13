@@ -7,5 +7,5 @@ jobs:
         runs-on: ubuntu-latest
         name: myname
         steps:
-            - run: bats -v
+            - run: ls
 
