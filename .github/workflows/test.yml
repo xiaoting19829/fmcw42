@@ -1,0 +1,11 @@
+name: test
+
+on: push
+
+jobs:
+    first_job:
+        runs-on: ubuntu-latest
+        name: myname
+        steps:
+            - run: bats -v
+
